@@ -1,4 +1,4 @@
-<h1> <b>A Dedicated Repo to learn Go Concurrency with Hands oon examples</b> </h1>
+<h1> <b>A Dedicated Repo to learn Go Concurrency with Hands on examples</b> </h1>
 
 <h3> <b>Goroutines</b> </h3>
 
